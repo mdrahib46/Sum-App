@@ -30,6 +30,11 @@ The `AddAllNum` method calculates the sum of the three numbers by accessing the 
 
 When the user taps the "Add" button, the `setState` method is called to update the UI and trigger the `AddAllNum` method.
 
+
+### Output Image
+
+![Screenshot_4](https://github.com/mdrahib46/Sum-App/assets/57681390/b65b111e-7d6a-4eef-a1b7-d73b9510555e)
+
 ### Dependencies
 
 This code relies on the following dependencies:
@@ -41,3 +46,5 @@ This code relies on the following dependencies:
 ### Note
 
 Please ensure that you have the required dependencies installed and configured in your Flutter project before running the code. Additionally, make sure to handle any missing imports or formatting issues that may arise during the integration process.
+
+
